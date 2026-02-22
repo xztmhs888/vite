@@ -29,7 +29,7 @@ If you need a custom integration, you can follow the steps in this guide to conf
    })
    ```
 
-   If you haven't disabled the [module preload polyfill](/config/build-options.md#build-polyfillmodulepreload), you also need to import the polyfill in your entry
+   If you haven't disabled the [module preload polyfill](/config/hbuild-options.md#build-polyfillmodulepreload), you also need to import the polyfill in your entry
 
    ```js
    // add the beginning of your app entry
